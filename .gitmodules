@@ -1,0 +1,6 @@
+[submodule "favorite-songs-server"]
+	path = favorite-songs-server
+	url = https://github.com/ncraffey/favorite-songs-server
+[submodule "favorite-songs-client"]
+	path = favorite-songs-client
+	url = https://github.com/ncraffey/favorite-songs-client
